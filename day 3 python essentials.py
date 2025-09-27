@@ -7,7 +7,7 @@
 # In[4]:
 
 
-num=15
+num=10
 sum=0
 while(num>0):
     sum=sum+num
