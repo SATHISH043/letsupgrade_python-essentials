@@ -14,7 +14,12 @@ while(num>0):
     num=num-1
     print("the sum is",sum)
 
-
+num=17
+sum=0
+while(num>0):
+    sum=sum+num
+    num=num-1
+    print("the sum is",sum)
 # prime numbers in python
 # 
 
